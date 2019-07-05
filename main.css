@@ -1,0 +1,18 @@
+.op{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+background-color: lightgray;
+margin-left: 15%;
+margin-right: 15%; }
+
+.ju {background: repeating-linear-gradient(180deg, mediumspringgreen 0px, rgb(0, 153, 255)800px);
+    padding: 10px;
+}
+.ty{
+    margin-left: 5%;
+}
+.let {
+    position: sticky;
+    top: 5px;
+    bottom: 5px;
+}
